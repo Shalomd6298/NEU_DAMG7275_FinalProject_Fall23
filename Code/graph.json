@@ -1,0 +1,39 @@
+{
+  "sensors": [
+    {
+      "id": "sensor1",
+      "type": "temperature",
+      "locationId": "location1"
+    },
+    {
+      "id": "sensor2",
+      "type": "humidity",
+      "locationId": "location2"
+    },
+    {
+      "id": "sensor3",
+      "type": "pressure",
+      "locationId": "location1"
+    }
+  ],
+  "locations": [
+    {
+      "id": "location1",
+      "name": "Lab A"
+    },
+    {
+      "id": "location2",
+      "name": "Lab B"
+    }
+  ],
+  "handlers": [
+    {
+      "id": "handler1",
+      "name": "Handler A"
+    },
+    {
+      "id": "handler2",
+      "name": "Handler B"
+    }
+  ]
+}
