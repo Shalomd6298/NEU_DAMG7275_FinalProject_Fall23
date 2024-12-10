@@ -2,4 +2,4 @@
 Northeastern University - DAMG7275 - Fall '23 - Final Project
 
 
-![Logo](screenshots/logo.png)
+![Logo](ADBMS_FP_Final_Arch.jpg)
